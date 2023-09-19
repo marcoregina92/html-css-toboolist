@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header{
+    margin: 20px;
+}
+
+#logoheader {
+    vertical-align: middle;
+    padding-left: 10px;
+    height: 50px;
+  }
+  
+  #scrittalogo {
+    display: inline;
+    vertical-align: middle;
+    font-size: 50px;
+  }
+
