@@ -21,3 +21,99 @@ header{
     font-size: 50px;
   }
 
+
+.pulsanti{
+    padding: 20px 40px;
+}
+
+
+.pulsantetask{
+    background-color: #47A9E8;
+    color: white;
+    border-radius: 6px;
+    padding: 6px;
+    font-size: 15px;
+    border: 1px solid #ddd
+}
+
+.pulsantesection{
+    color: gray;
+    background-color: white;
+    font-size: 15px;
+    border-radius: 6px;
+    padding: 6px;
+    border: 1px solid #ddd
+}
+
+.cerchio-check{
+    border: 1px solid green;
+    color: green;
+    border-radius: 50%;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin: 15px;
+
+}
+
+
+.editorial{
+    background-color: #47A9E8;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    font-size: 11px;
+}
+
+.cerchio-rosso{
+    border: 1px solid red;
+    color: red;
+    border-radius: 50%;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin: 15px;
+
+}
+
+.q1-goals{
+    background-color: #9C72E3;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    font-size: 11px;
+}
+
+.recruiting{
+    background-color: #63BEA9;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    font-size: 11px;
+}
+
+.summit{
+    background-color: #F39C34;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    font-size: 11px;
+}
+
+.website{
+    background-color: #D563A0;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    font-size: 11px;
+}
+
+.sales{
+    background-color: #B1C729;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    font-size: 11px;
+}
